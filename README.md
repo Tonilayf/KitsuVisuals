@@ -1,0 +1,2 @@
+# KitsuVisuals
+KitsuVisuals.jar
